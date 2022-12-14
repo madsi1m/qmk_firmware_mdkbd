@@ -22,7 +22,7 @@
 /* TouchPad: https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md
  */
 
-#ifdef PS2_USE_USART
+#ifdef PS2_DRIVER_USART
 #define PS2_CLOCK_PIN   D5
 #define PS2_DATA_PIN    D2
 
