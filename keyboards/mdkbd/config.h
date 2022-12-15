@@ -19,6 +19,8 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
+#define LED_CAPS_LOCK_PIN F0
+
 /* TouchPad: https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md
  */
 
