@@ -22,3 +22,4 @@
 /* TouchPad: https://github.com/qmk/qmk_firmware/blob/master/docs/feature_ps2_mouse.md
  */
 
+#define LED_CAPS_LOCK_PIN F0
